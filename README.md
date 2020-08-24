@@ -9,7 +9,7 @@ Hi there, I'm <strong> Ashish Mishra </strong>, a <strong>Front-End Developer </
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
  <br>
- <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+ <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="450" >
  
 ### Talking about my Personal Stuffs -
 - 🔭 I’m currently working on Automating boooring stuff with Python.   
